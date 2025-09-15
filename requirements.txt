@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+pytest
+fastapi
+dvc
+mlflow
+cookiecutter-data-science
+pybgpstream
