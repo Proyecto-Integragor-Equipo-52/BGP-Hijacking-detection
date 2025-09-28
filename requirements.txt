@@ -10,3 +10,4 @@ mlflow
 cookiecutter-data-science
 pybgpstream
 pyarrow
+scipy
